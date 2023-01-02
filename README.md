@@ -1,6 +1,6 @@
 # 2-uzduotis
 Programa dabar naudoją klasę studentas vietoj struktūros studentas. Lyginant spartą gauti tokie rezultatai:\
-Struktūra:
+Struktūra:\
 ![image](https://user-images.githubusercontent.com/114738526/210244167-a90ea113-78b7-448a-99cc-4b4cae2ac443.png)
 ![image](https://user-images.githubusercontent.com/114738526/210244186-e6398dd8-24ff-42aa-894a-fef5686b6790.png)\
 
